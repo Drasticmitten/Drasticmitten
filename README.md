@@ -27,9 +27,44 @@ I’ve worked on full-stack applications, cloud-native solutions, DevOps automat
 
 ## 📂 Featured Projects
 
-### 🔹 **Event Router Platform (OCI + OIC + Streaming + Functions)**  
-Enterprise-grade event routing system using Oracle Cloud:  
-API Gateway → Streaming → OIC → Functions → Autonomous DB.
+### 🔹 **Event Router Platform (OCI Event Broker Architecture)**  
+A large-scale, event-driven integration platform built on Oracle Cloud to decouple communication between institutional applications.
+
+### 🛰️ OCI Services Used
+
+<p align="center">
+  <img height="55" src="https://raw.githubusercontent.com/davidcarrero-labs/oci-icons/main/api-gateway.png" alt="API Gateway" />
+  <img height="55" src="https://raw.githubusercontent.com/davidcarrero-labs/oci-icons/main/functions.png" alt="OCI Functions" />
+  <img height="55" src="https://raw.githubusercontent.com/davidcarrero-labs/oci-icons/main/streaming.png" alt="OCI Streaming" />
+  <img height="55" src="https://raw.githubusercontent.com/davidcarrero-labs/oci-icons/main/integration.png" alt="Oracle Integration Cloud" />
+  <img height="55" src="https://raw.githubusercontent.com/davidcarrero-labs/oci-icons/main/autonomous-database.png" alt="Autonomous Database" />
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft 365" />
+</p>
+
+### 🧩 Architecture Flow
+
+API Gateway
+↓
+Fn (Auth Against Microsoft 365)
+↓
+Fn (Credential Resolver / Token Validator)
+↓
+OCI Streaming (Ingress Partition)
+↓
+OIC Integration (Routing Engine)
+↓
+OCI Streaming (Partitioned Event Distribution)
+↓
+Consumer Applications (Asynchronous Event Processing)
+
+
+### ⭐ Key Features
+- Fully event-driven architecture  
+- Scalable, fault-tolerant, multi-partition streaming  
+- External authentication via Microsoft 365  
+- Decoupled integration between systems (Banner, HubSpot, OIC, etc.)  
+- Dynamic routing logic stored in ATP  
+- Cloud-native and serverless  
 
 ### 🔹 **Identity Automation (Entra ID + Functions + API Gateway)**  
 Automated identity workflows for MFA enforcement, SSO, token validation, role mapping, and account provisioning.
