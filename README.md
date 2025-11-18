@@ -1,7 +1,7 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text=David%20Carrero&width=900&height=300" alt="banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=David%20Carrero&width=900&height=300" alt="banner"/>
 </p>
+
 
 # 👋 Hi, I'm David Carrero — Systems Engineer
 
@@ -16,7 +16,7 @@ I’ve worked on full-stack applications, cloud-native solutions, DevOps automat
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,py,dotnet,terraform,ansible,docker,nestjs,html,css,js,mysql)](https://skillicons.dev)
 
-### ⭐ Extra Skills (custom icons)
+### ⭐ Extra Skills 
 <p>
   <img height="40" src="https://img.shields.io/badge/Oracle_Cloud-Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img height="40" src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
