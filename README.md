@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=David%20Carrero%20🎮%20&fontAlign=50&fontSize=60&fontColor=ffffff&fontAlignY=35&height=200&desc=Systems%20Engineer&descAlign=50&descAlignY=70" />
+  <img src="https://i.imgur.com/Cb4K2hN.gif" width="900" alt="David Carrero Pixel Banner" />
 </p>
+
 
 
 
