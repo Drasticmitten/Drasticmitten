@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=David%20Carrero%20🎮&fontAlign=50&fontSize=60&fontColor=ffffff&fontAlignY=35&height=200&desc=Systems%20Engineer&descAlign=50&descAlignY=70" />
+  <img 
+       src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=David%20Carrero%20🎮&fontAlign=50&fontSize=60&fontColor=ffffff&fontAlignY=35&height=200&desc=Systems%20Engineer&descAlign=50&descAlignY=70"
+       style="border-radius: 15px; border: 3px solid #ffffff;" 
+  />
 </p>
+
 
 # 👋 Hi, I'm David Carrero — Systems Engineer
 
