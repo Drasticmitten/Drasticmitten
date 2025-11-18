@@ -6,7 +6,11 @@ I enjoy designing, automating, and optimizing systems that generate real impact.
 
 ### 🚀 Technologies I work with
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,py,dotnet,terraform,ansible,docker,nestjs,html,css,js,mysql)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,py,dotnet,terraform,ansible,docker,nestjs,html,css,js,mysql" />
+  </a>
+</p>
 
 ### 🌱 Always Growing
 - Modern architectures (Serverless, Event-Driven, Microservices)  
