@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm David Carrero — Systems Engineer
 
-<!--
-**Drasticmitten/Drasticmitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineer passionate about continuous learning and modern software engineering.  
+I’ve built several projects using multiple frameworks, programming languages, DevOps tools, cloud platforms, and integration technologies.  
+I enjoy designing, automating, and optimizing systems that generate real impact.
 
-Here are some ideas to get you started:
+### 🚀 Technologies I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=angular,react,py,dotnet,terraform,ansible,docker,nestjs,html,css,js,mysql)](https://skillicons.dev)
+
+### 🌱 Always Growing
+- Modern architectures (Serverless, Event-Driven, Microservices)  
+- DevOps & Cloud (Terraform, Ansible, Docker, OCI)  
+- Enterprise integrations (APIs, automation, system interoperability)  
+- Web development with Angular, React, NestJS, ASP.NET, and Python  
+
+### 📫 Get in Touch
+Feel free to explore my repositories and projects here on GitHub.  
