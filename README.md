@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text=David%20Carrero&width=900&height=300" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=David%20Carrero%20🎮%20&fontAlign=50&fontSize=60&fontColor=ffffff&fontAlignY=35&height=200&desc=Systems%20Engineer&descAlign=50&descAlignY=70" />
 </p>
+
 
 
 # 👋 Hi, I'm David Carrero — Systems Engineer
@@ -39,9 +40,11 @@ Interactive dashboards, admin portals, and business systems for academic and ent
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=davidcarrero&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcarrero&layout=compact&theme=tokyonight" />
 </p>
 
